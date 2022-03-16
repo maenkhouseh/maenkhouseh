@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maenkhouseh
 - 📫 How to reach me: maen.househ@evotik.com
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maenkhouseh&show_icons=true&locale=en&layout=compact" alt="maenkhouseh" /></p>
+
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -60,6 +60,7 @@
 ## My Go To
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maenkhouseh&show_icons=true&locale=en&layout=compact" alt="maenkhouseh" />
 <!---
 maenkhouseh/maenkhouseh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
