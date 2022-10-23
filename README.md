@@ -4,7 +4,6 @@ Hi 👋 My name is Dr. Maen K Househ
 Full-Stack Developer
 --------------------
 
-* 🌍  I'm based in Earth
 * 🖥️  See my portfolio at [my website](http://maen.me)
 * ✉️  You can contact me at [maen.househ@evotik.com](mailto:maen.househ@evotik.com)
 * 🤝  I'm open to collaborating on things you think they are interesting
