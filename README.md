@@ -3,8 +3,9 @@ Hi 👋 My name is Dr. Maen K Househ
 
 Full-Stack Developer
 --------------------
-
-* 🖥️  See my portfolio at [my website](http://maen.me)
+* 🖥️  [Link of all links](zaap.bio/drhouseh)
+* 🖥️  [my website](http://maen.me)
+* 🖥️  [my new blog](https://drhouseh.substack.com/)
 * ✉️  You can contact me at [maen.househ@evotik.com](mailto:maen.househ@evotik.com)
 * 🤝  I'm open to collaborating on things you think they are interesting
 * ⚡  I'm a medical doctor for real
