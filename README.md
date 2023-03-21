@@ -8,7 +8,7 @@ Full-Stack Developer
 * 🖥️  [my new blog](https://drhouseh.substack.com/)
 * ✉️  You can contact me at [maen.househ@evotik.com](mailto:maen.househ@evotik.com)
 * 🤝  I'm open to collaborating on things you think they are interesting
-* ⚡  I'm a medical doctor for real
+* ⚡  I'm a medical doctor
 
 <a href="https://www.twitter.com/MaenHouseh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MaenHouseh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
