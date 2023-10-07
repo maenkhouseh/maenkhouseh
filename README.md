@@ -1,10 +1,13 @@
 Hi 👋 My name is Dr. Maen K Househ
 ==================================
 
+* 👨‍💻  [Evotik | Software Househ](https://evotik.com)
+* ♻  [ByteBricks | Germany Job Listing API](https://bytebricks.ai)
+
 Full-Stack Developer
 --------------------
 * 🖥️  [Link of all links](zaap.bio/drhouseh)
-* 🖥️  [my website](http://maen.me)
+* 🖥️  [my website](https://maen.me)
 * 🖥️  [my new blog](https://drhouseh.substack.com/)
 * ✉️  You can contact me at [maen.househ@evotik.com](mailto:maen.househ@evotik.com)
 * 🤝  I'm open to collaborating on things you think they are interesting
