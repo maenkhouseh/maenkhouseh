@@ -1,7 +1,7 @@
 Hi 👋 My name is Dr. Maen K Househ
 ==================================
 
-* 👨‍💻  [Evotik | Software Househ](https://evotik.com)
+* 👨‍💻  [Evotik | Software House](https://evotik.com)
 * ♻  [ByteBricks | Germany Job Listing API](https://bytebricks.ai)
 
 Full-Stack Developer
