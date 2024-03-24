@@ -6,7 +6,7 @@ Hi 👋 My name is Dr. Maen K Househ
 
 Full-Stack Developer
 --------------------
-* 🖥️  [Link of all links](zaap.bio/drhouseh)
+* 🖥️  [Link of all links](https://zaap.bio/drhouseh)
 * 🖥️  [my website](https://maen.me)
 * ✉️  You can contact me at [maen.househ@evotik.com](mailto:maen.househ@evotik.com)
 * 🤝  I'm open to collaborating on things you think they are interesting
